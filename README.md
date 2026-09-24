@@ -1,4 +1,4 @@
-### Explore my Portfolio !
+### Explore Portfolio !
 
 🌐 Visit my Portfolio: [https://saveenmaduranga.vercel.app/](#)
 
